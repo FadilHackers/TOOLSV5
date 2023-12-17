@@ -3,7 +3,7 @@ Selamat Datang Di Tools V5 Terbaru 2023
 -------SILAHKAN PILIH SCRIPT------
 
 - # 🔥 FITUR TERBARU TOOLS TERMUX V5 🔥
-1. HackFacebook♻️
+1. HackFacebook
 2. DDos Hp Merusak💯
 3. Hack PW Bruteforce⚠
 4. Hack FB bY hNOV7⚠
