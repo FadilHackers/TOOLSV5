@@ -78,16 +78,16 @@ termux-setup-storage
 apt install git
 
 #clone this repository
-git clone https://github.com/mishakorzik/AllHackingTools
+git clone https://github.com/FadilHackers/TOOLSV5
 
 #cd to directory allhackingtools
-cd AllHackingTools
+cd TOOLSV5
 
 #Start script to install system
 bash Install.sh
 ```
 
-**if the error and the command does not work: cd AllHackingTools && bash fix.sh**
+**if the error and the command does not work: cd TOOLSV5 && bash fix.sh**
 
 **And when he writes a big rainbow button: 
 Done, everything is ready! Wait until you can write to the terminal.**
@@ -249,10 +249,10 @@ figlet -f block  AND  toilet -f block
 
 ```bash
 Emails:
- developer.mishakorzhik@gmail.com
+ developer.fadilmultiaxest454@gmail.com
 
 Developers:
- mishakorzhik
+ Fadil MZX
 ```
 
 ## Bug?
@@ -262,7 +262,7 @@ If the tool fails, follow these steps:
    in detail
 
 2. Contact me through the following 
-   email: developer.mishakorzhik@gmail.com  <img width="2.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/envelope-fill.svg"/>
+   email: developer.setiaoldakun@gmail.com  <img width="2.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/envelope-fill.svg"/>
 
 3. Submit the screenshot and explain 
    your problem with that error
@@ -413,10 +413,10 @@ Desing:
 ---
 
 ## Screanshot <img width="2.1%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/card-image.svg"/>
-#### view a screanshot for AllHackingTools
+#### view a screanshot for TOOLSV5
 <br>
 <p align="center">
-<img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210630_212422.jpg"/> 
+<img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_202AllHackingToolsg"/> 
 <img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210720_144718.jpg"/> 
 <img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210630_212448.jpg"/> 
 <img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210720_144658.jpg"/> 
@@ -425,7 +425,7 @@ Desing:
 -----
 ## Download more utility for hacking!
 
-#### uninstall AllHackingTools
+#### uninstall TOOLSV5
 
 * `bash Uninstall/Uninstall.sh`
 
@@ -472,5 +472,5 @@ Desing:
 
 ## Supporters
 [![Stargazers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/stars/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/stargazers)
-[![Forkers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/forks/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/members)
+[![Forkers repo roster for @FADIL MZX/TOOLSV5](https://reporoster.com/forks/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/members)
 
